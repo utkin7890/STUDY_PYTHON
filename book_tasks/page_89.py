@@ -1,9 +1,10 @@
 cars = ['lada', 'subaru', 'suzuki']
 
-car = 'lada'
+for car in cars:
+    if car == input('enter the model: '):
+        print('Yor car is ' + car)
+        
 
-if car in cars:
-    print('You car is lada')
 
 
 
