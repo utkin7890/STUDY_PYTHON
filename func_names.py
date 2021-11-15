@@ -1,3 +1,10 @@
+"""
+
+This script create a new name for the step function
+For this enter a discription of the step from file.feature
+
+"""
+
 while True:
 
     step_name = input('(press q for quit) \n' + 'Input step name for create new name function: ')
