@@ -10,4 +10,4 @@ garden_square_feet = garden_length * garden_width
 proportion_feet_in_acre = 43560
 garden_square_acres = garden_square_feet/proportion_feet_in_acre
 
-print("Squre of the garden plot in acres: "+str(garden_square_acres)+ " acres")
+print("\nSqure of the garden plot in acres: "+str(garden_square_acres)+ " acres")
